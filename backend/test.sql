@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS `books` (
 INSERT INTO `books` (`id`, `title`, `desc`, `price`, `cover`) VALUES
 (1, 'Gamer of throne', 'this is an amazing book to read when you are free ', 2343.2, 'https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60'),
 (2, 'Fire folks', 'fire folks is a mind-blowing book to read; it will blow your mind', 2342.3, 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80'),
-(3, 'My Journey', 'my journey  is a mind-blowing book it inspires youth; it will blow your mind', 2342.3, 'https://unsplash.com/photos/7CLchTRLpIA');
+(3, 'My Journey', 'my journey  is a mind-blowing book it inspires youth; it will blow your mind', 2342.3, 'https://images.unsplash.com/photo-1740221359926-b3d2f676f3bb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxfbzRydXdvRDNVZ3x8ZW58MHx8fHx8');
 
 -- Add primary key for the books table
 ALTER TABLE `books`
